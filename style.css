@@ -147,8 +147,9 @@ body {
 .loader {
     animation-name: loader;
     animation-iteration-count: infinite;
-    /* animation-timing-function: ease; */
 }
+
+
 
 
 
